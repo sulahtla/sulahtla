@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sulahtla
-- 👀 I’m interested in Linux, ML, honelabs,
+- 👀 I’m interested in Linux, ML, homelabs,
 - VPS integrations, technical documentation
 - 🌱 I’m currently learning all of the above,
-- plus Python and Rust (and Docker...) 
+- plus Python and Rust (and Docker...)
+- and extended server administration skillsets.
 - 💞️ I’m looking to collaborate on anything!
 - I love to help! 
 - 📫 How to reach me ... I'll add something
